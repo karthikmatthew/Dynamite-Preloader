@@ -16,4 +16,4 @@ This project features a simple yet stylish animated preloader using HTML and CSS
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone  https://github.com/karthikmatthew/Dynamite-Preloader
