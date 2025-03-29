@@ -1,10 +1,19 @@
-# Annimated Preloader
-✨ Successfully implemented an animated preloader ✨
-During my web development internship at Dynamite Webtech, I created a smooth and responsive animated preloader using HTML and CSS. This preloader enhances the user experience by indicating loading progress with a stylish animation.
+# 🚀 Animated Preloader in HTML
 
-💻 Key Features:
-✅ Smooth and fluid animation
-✅ Fully customizable (colors, size, speed)
-✅ Pure HTML and CSS – no dependencies
+This project features a simple yet stylish animated preloader using HTML and CSS. The preloader can be used in websites or web applications to indicate that content is loading.
 
-🔥 This project helped me enhance my frontend skills and understand the importance of UI/UX optimization for better website performance.
+## 🌟 Preview
+
+![Preloader Demo](https://user-images.githubusercontent.com/your-username/placeholder.gif)  
+*Example of the preloader animation.*
+
+## ⚙️ Features
+- Smooth and responsive animation.
+- Customizable colors and size.
+- Pure HTML and CSS (no dependencies).
+
+## 🛠️ Installation
+
+1. Clone the repository:
+```bash
+git clone 
